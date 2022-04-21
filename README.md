@@ -40,4 +40,4 @@ Terceira etapa: envio nas mensagens
 
 
 
-Bot desenvolvido para fins de estudo, não me responsabilizo pelo seu uso do mesmo.
+Bot desenvolvid para fins de estudo, não me responsabilizo pelo seu uso do mesmo.
